@@ -4,6 +4,8 @@ This is just a demo of a mkdocs static website capable of serving a gazillion of
 
 Inspired by: https://github.com/squidfunk/mkdocs-material/issues/1210
 
+If this is useful to you but you prefer to stick with markdown documents rather than html, you might consider using pandoc to convert your markdown files to html.
+
 ## Running
 
 ```sh

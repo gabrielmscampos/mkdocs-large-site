@@ -1,0 +1,7 @@
+site_name: Science Encyclopedia
+theme:
+  name: mkdocs
+nav:
+  - Home: index.mkd
+  - Physics: physics/index.mkd
+  - Chemistry: chemistry/index.mkd
